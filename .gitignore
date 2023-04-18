@@ -1,0 +1,6 @@
+node_modules/
+.env
+
+# Fichier d'environnement mac, please ignore
+
+.DS_Store 
